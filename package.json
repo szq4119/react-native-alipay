@@ -1,0 +1,17 @@
+{
+  "license": "MIT",
+  "main": "Alipay.js",
+  "maintainers": [
+    {
+      "name": "smccz",
+      "email": "77165378@qq.com"
+    }
+  ],
+  "name": "react-native-alipay",
+  "optionalDependencies": {},
+  "publish_time": 1449846953549,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
